@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nombre": "Budín de limón",
+    "precio": 2500,
+    "img": "img/budincito.jpg",
+    "descripcion": "Budin glaseaso riquisimo"
+  },
+  {
+    "id": "2",
+    "nombre": "Croissant",
+    "precio": 1800,
+    "img": "img/croissant.jpg",
+    "descripcion": "Croissant crocantito"
+  },
+  {
+    "id": "3",
+    "nombre": "Pancake",
+    "precio": 4200,
+    "img": "img/pancake.jpg",
+    "descripcion": "Pancakes esponjosos"
+  },
+  {
+    "id": "4",
+    "nombre": "Pan casero",
+    "precio": 1500,
+    "img": "img/pan.jpg",
+    "descripcion": "Pan de masa madre"
+  }
+]
